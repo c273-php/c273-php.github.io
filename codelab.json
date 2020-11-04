@@ -1,0 +1,40 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-11-04T06:04:55Z",
+  "id": "c273-php.github.io",
+  "duration": 0,
+  "title": "C273 - Lesson Videos",
+  "authors": "TAN KOK CHENG",
+  "summary": "C349 - iPad Programming",
+  "source": "1uF4CJTxmvsr0AfEjamvEUJ6t8qQalUL2uRfOsiSB6wc",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "cds17",
+    "chrome-dev-summit-2016",
+    "devfest18",
+    "gdd17",
+    "io2016",
+    "io2017",
+    "io2018",
+    "io2019",
+    "jsconfeu",
+    "kiosk",
+    "pwa-dev-summit",
+    "pwa-roadshow",
+    "tag-web",
+    "typtwd17",
+    "web"
+  ],
+  "feedback": "https://docs.google.com/forms/d/e/1FAIpQLSf_4zL_7i5f7mFlQjlgC3gvN_0664HO4gdd8xPfyJhGP0AAow/viewform",
+  "ga": "UA-151922485-1",
+  "url": "c273-php.github.io"
+}
